@@ -33,7 +33,7 @@ ALLOWED_HOSTS = ['*']
 
 CSRF_TRUSTED_ORIGINS = ['http://localhost',
                          'http://127.0.0.1',
-                           'sge-01-production.up.railway.app']
+                           'https://sge-01-production.up.railway.app']
 
 # Application definition
 
